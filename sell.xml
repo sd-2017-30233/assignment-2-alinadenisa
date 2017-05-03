@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bookStore>
+
+<sell>
+<title>Peter Pan</title>
+<author>Author</author>
+<gender>Drama</gender>
+<quantity>5</quantity>
+<price>900</price>
+</sell>
+<sell>
+<title>Peter Pan</title>
+<author>Author</author>
+<gender>Drama</gender>
+<quantity>5</quantity>
+<price>900</price>
+<sum>4500</sum>
+</sell>
+<sell>
+<title>Peter Pan</title>
+<author>Author</author>
+<gender>Drama</gender>
+<quantity>5</quantity>
+<price>900</price>
+<sum>4500</sum>
+</sell>
+<sell>
+<title>Peter Pan</title>
+<author>Author</author>
+<gender>Drama</gender>
+<quantity>5</quantity>
+<price>900</price>
+<sum>4500</sum>
+</sell>
+<sell>
+<title>Peter Pan</title>
+<author>Author</author>
+<gender>Drama</gender>
+<quantity>5</quantity>
+<price>900</price>
+<sum>4500</sum>
+</sell>
+<sell>
+<title>Peter Pan</title>
+<author>Author</author>
+<gender>Drama</gender>
+<quantity>5</quantity>
+<price>900</price>
+<sum>4500</sum>
+</sell>
+<sell>
+<title>Julieta</title>
+<author>Shewkspiare</author>
+<gender>Drama</gender>
+<quantity>2</quantity>
+<price>110</price>
+<sum>220</sum>
+</sell>
+<sell>
+<title>Julieta</title>
+<author>Shewkspiare</author>
+<gender>Drama</gender>
+<quantity>2</quantity>
+<price>110</price>
+<sum>220</sum>
+</sell>
+</bookStore>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><bookStore>
+<user>
+<username>denisa</username>
+<name>ilies</name>
+<password>123</password>
+<admin>true</admin>
+</user>
+
+<user>
+<username>cata</username>
+<name>cata</name>
+<password>123</password>
+<admin>false</admin>
+</user>
+<user>
+<username>cata</username>
+<name>cata</name>
+<password>123</password>
+<admin>false</admin>
+</user>
+
+</bookStore>

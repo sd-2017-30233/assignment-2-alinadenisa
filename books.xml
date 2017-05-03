@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><bookStore>
+
+<book>
+<title>Peter Pan</title>
+<author>Author</author>
+<year>1992</year>
+<gender>Drama</gender>
+<price>900</price>
+<quantity>0</quantity>
+</book>
+<book>
+<title>Julieta</title>
+<author>Shewkspiare</author>
+<year>1992</year>
+<gender>Drama</gender>
+<price>110</price>
+<quantity>8</quantity>
+</book>
+<book>
+<title>Basme</title>
+<author>Petre Ispirescu</author>
+<year>1992</year>
+<gender>Copii</gender>
+<price>15</price>
+<quantity>50</quantity>
+</book>
+
+<book>
+<title>Manual Geografie</title>
+<author>Marinescu Victor</author>
+<year>1992</year>
+<gender>Scolar</gender>
+<price>19</price>
+<quantity>2</quantity>
+</book>
+<book>
+<title>assda</title>
+<author>adas</author>
+<gender>afsa</gender>
+<quantity>24</quantity>
+<price>23</price>
+</book>
+<book>
+<title>Manual geografie</title>
+<author>adas</author>
+<gender>afsa</gender>
+<quantity>0</quantity>
+<price>0</price>
+</book>
+<book>
+<title>Manual geografie</title>
+<author>adas</author>
+<gender>afsa</gender>
+<quantity>0</quantity>
+<price>0</price>
+</book>
+<book>
+<title> geografie</title>
+<author>adas</author>
+<gender>afsa</gender>
+<quantity>2</quantity>
+<price>1</price>
+</book>
+<book>
+<title>DENISA</title>
+<author>ALINA</author>
+<gender>drama</gender>
+<quantity>1</quantity>
+<price>2</price>
+</book>
+<book>
+<title>DENISA</title>
+<author>ALINA</author>
+<gender>drama</gender>
+<price>2</price>
+<quantity>1</quantity>
+</book>
+    <book>
+<title> geografie</title>
+<author>adas</author>
+<gender>afsa</gender>
+<quantity>2</quantity>
+<price>1</price>
+    </book>
+<book>
+<title> geografie</title>
+<author>adas</author>
+<gender>afsa</gender>
+<quantity>2</quantity>
+<price>1</price>
+</book>
+<book>
+<title>carte buna</title>
+<author>adas</author>
+<gender>afsa</gender>
+<quantity>2</quantity>
+<price>1</price>
+</book>
+
+<book>
+<title>ion</title>
+<author>ion</author>
+<gender>ion</gender>
+<quantity>0</quantity>
+<price>20</price>
+</book>
+</bookStore>
